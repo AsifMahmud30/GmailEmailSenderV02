@@ -44,7 +44,7 @@ public class splash<Splash> extends AppCompatActivity {
     }
     public void startApp(){
         Intent intent;
-        intent = new Intent(splash.this,MainActivity.class);
+        intent = new Intent(splash.this,MailActivity.class);
         startActivity(intent);
         finish();
     }
