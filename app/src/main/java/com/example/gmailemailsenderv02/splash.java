@@ -49,3 +49,4 @@ public class splash<Splash> extends AppCompatActivity {
         finish();
     }
 }
+//hello asif
